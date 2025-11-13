@@ -1,15 +1,15 @@
 {
-  "name": "todo",
+  "name": "simple-backend",
   "version": "1.0.0",
   "description": "basic backend",
   "keywords": [],
-  "homepage": "https://github.com/max-S-bot/todo#readme",
+  "homepage": "https://github.com/max-S-bot/simple-backend#readme",
   "bugs": {
-    "url": "https://github.com/max-S-bot/todo/issues"
+    "url": "https://github.com/max-S-bot/simple-backend/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/max-S-bot/todo.git"
+    "url": "git+https://github.com/max-S-bot/simple-backend.git"
   },
   "license": "ISC",
   "author": "max-S-bot",
